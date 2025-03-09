@@ -1,0 +1,1 @@
+This project focuses on predicting customer churn for a telecom company using deep learning models. The goal is to identify customers likely to leave the service, helping the company take proactive retention measures.
